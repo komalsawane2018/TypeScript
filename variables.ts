@@ -1,3 +1,4 @@
+
 var n1: number = 10
 
 console.log(n1);
@@ -12,4 +13,14 @@ var s2: string = "powerfull people come from powerful places"
 
 console.log(s1);
 console.log(s2);
+
+
+
+
+
+// Union Type |
+var sn : string|number
+sn = "Codemind"
+sn= 10;
+
 
